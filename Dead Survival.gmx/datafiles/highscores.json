@@ -1,0 +1,43 @@
+{
+    "p01": {
+        "name": "Jack",
+        "total_score": 500,
+        "accuracy": 70,
+        "zombies_killed": 50,
+        "buildings": 6,
+        "days": 300
+    },
+    "p02": {
+        "name": "Bon",
+        "total_score": 400,
+        "accuracy": 60,
+        "zombies_killed": 40,
+        "buildings": 5,
+        "days": 250
+    },
+    "p03": {
+        "name": "Jon",
+        "total_score": 300,
+        "accuracy": 50,
+        "zombies_killed": 30,
+        "buildings": 4,
+        "days": 200
+    },
+    "p04": {
+        "name": "Tom",
+        "total_score": 200,
+        "accuracy": 50,
+        "zombies_killed": 30,
+        "buildings": 4,
+        "days": 200
+    },
+    "p05": {
+        "name": "Sam",
+        "total_score": 100,
+        "accuracy": 50,
+        "zombies_killed": 30,
+        "buildings": 4,
+        "days": 200
+    }
+
+}

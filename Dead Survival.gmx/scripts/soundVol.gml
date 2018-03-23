@@ -1,0 +1,17 @@
+audio_sound_gain(snd_InGameAtStart,argument0,0);
+audio_sound_gain(snd_Movement,argument0,0);
+audio_sound_gain(snd_Pistol,argument0,0);
+audio_sound_gain(snd_M4A1,argument0,0);
+audio_sound_gain(snd_Shotgun,argument0,0);
+audio_sound_gain(snd_Death,argument0,0);
+audio_sound_gain(snd_ZombieHit,argument0,0);
+audio_sound_gain(snd_NoBullets,argument0,0);
+audio_sound_gain(snd_CrateTouch,argument0,0);
+audio_sound_gain(snd_WeaponChange,argument0,0);
+audio_sound_gain(snd_ZombieDie,argument0,0);
+audio_sound_gain(snd_Click,argument0,0);
+audio_sound_gain(snd_TurretFire,argument0,0);
+audio_sound_gain(snd_explosion,argument0,0);
+audio_sound_gain(snd_Tick,argument0,0);
+audio_sound_gain(snd_Warning,argument0,0);
+audio_sound_gain(snd_Reject,argument0,0);

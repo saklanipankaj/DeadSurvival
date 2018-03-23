@@ -1,0 +1,8 @@
+1. Why do we need a global state for high score if we have a different room for it.
+Cause You are going to use the Control object to access data for the highscore and stuff.
+The Control object will be in all room, cause its persistent. And u use it to
+show all the stats and stuff
+2. Room_goto does not remove the button sprites
+cause state never change u need do that forget sorry
+
+	

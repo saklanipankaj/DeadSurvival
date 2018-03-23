@@ -1,0 +1,106 @@
+{
+    "UP01": {
+        "name": "Ghost's Health",
+        "description": "Increases Ghost's Health",
+        "levels": [
+        	{
+        		"lvl": 2, 
+        		"value": 10, 
+        		"cost": 20
+        	},
+        	{
+        		"lvl": 3, 
+        		"value": 15, 
+        		"cost": 30
+        	},
+        	{
+        		"lvl": 4, 
+        		"value": 15, 
+        		"cost": 40
+        	},
+        	{
+        		"lvl": 5, 
+        		"value": 30, 
+        		"cost": 50
+        	}
+        ]
+    },
+    "UP02": {
+        "name": "Ghost's Movement Speed",
+        "description": "Increases Ghost's Movement Speed",
+        "levels": [
+            {
+                "lvl": 2,
+                "value": 10,
+                "cost": 15
+            },
+            {
+                "lvl": 3,
+                "value": 20,
+                "cost": 20
+            },
+            {
+                "lvl": 4,
+                "value": 30,
+                "cost": 25
+            },
+            {
+                "lvl": 5,
+                "value": 40,
+                "cost": 30
+            }
+        ]
+    },
+    "UP03": {
+        "name": "Ghost's Accuracy",
+        "description": "Increases Ghost's Accuracy",
+        "levels": [
+            {
+                "lvl": 2,
+                "value": 10,
+                "cost": 10
+            },
+            {
+                "lvl": 3,
+                "value": 20,
+                "cost": 20
+            },
+            {
+                "lvl": 4,
+                "value": 30,
+                "cost": 30
+            },
+            {
+                "lvl": 5,
+                "value": 40,
+                "cost": 40
+            }
+        ]
+    },
+    "UP04": {
+        "name": "Safehouse's Health",
+        "description": "Increases Safehouse's Health",
+        "levels": [
+            {
+                "lvl": 2,
+                "value": 50,
+                "cost": 60
+            },
+            {
+                "lvl": 3,
+                "value": 50,
+                "cost": 90
+            },
+            {
+                "lvl": 4,
+                "value": 50,
+                "cost": 160
+            },
+            {
+                "lvl": 5,
+                "value": 50,
+                "cost": 240
+            }
+        ]
+    }
+}
